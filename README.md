@@ -7,12 +7,12 @@
  como mi meta es ser front-end developer senior los lengaujes que utilizo y continuo aprendiendo son: Javascript,css y HTML, utiliando frameworks
 como React y sass</p>
 <p> me puedes encontrar en... </p>
-twiter(https://twitter.com/bertofacha) </b>
-instagram(https://www.instagram.com/ema_berto17/) </b>
-reddit(https://www.reddit.com/user/ENSALADADEFACHA) </b>
-linkedin](https://www.linkedin.com/in/emanuel-bertorello-84a425219/) </b>
- <p>  emaBerto = {
-   "prefereciasMusicales2 : [deftones,nirvana,linkinPark], </b>
-   "pasiones" : [escucharMusica,Programar,aprender] </b>
-   "miDebilidades" : [e-gils,deftones] </b>
-  } </p>
+ <p>twiter(https://twitter.com/bertofacha) </p>
+ <p>instagram(https://www.instagram.com/ema_berto17/) </p>
+ <p>reddit(https://www.reddit.com/user/ENSALADADEFACHA) </p>
+ <p>linkedin](https://www.linkedin.com/in/emanuel-bertorello-84a425219/) </p>
+ <p>  emaBerto = { </p>
+  <p> "prefereciasMusicales2 : [deftones,nirvana,linkinPark], </p>
+   <p> "pasiones" : [escucharMusica,Programar,aprender] </p>
+   <p> "miDebilidades" : [e-gils,deftones] </p>
+  } 

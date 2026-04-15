@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Emanuel%20Bertorello&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Argentina%20🇦🇷&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emanuel%20Bertorello&fontSize=50&fontColor=DD0031&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Angular%20%7C%20Python%20Automations%20%7C%20Argentina%20🇦🇷&descAlignY=58&descSize=16" width="100%" />
 
 </div>
 
@@ -8,26 +8,36 @@
 
 ## 👋 Hola, soy Emanuel
 
-Soy un programador junior **especializado en Front-End**, nacido en Argentina 🇦🇷. Me apasiona construir interfaces web limpias y funcionales. Actualmente estudiando **Analista de Sistemas** y perfeccionando mis habilidades día a día.
+Soy un **Front-End Developer** argentino 🇦🇷 especializado en **Angular** y apasionado por automatizar procesos industriales con **Python**. Me gusta construir interfaces limpias y funcionales, y también resolver problemas reales con código en el mundo industrial.
 
-> *"Mi meta es convertirme en Front-End Developer Senior"* 🚀
+Actualmente estudiando **Analista de Sistemas** y creciendo como desarrollador cada día.
+
+> *"Siempre aprendiendo, siempre construyendo."* ⚡
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Front-End**
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Automatización & Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 ---
 
@@ -36,9 +46,9 @@ Soy un programador junior **especializado en Front-End**, nacido en Argentina �
 | Proyecto | Descripción | Tech |
 |---------|-------------|------|
 | [🌐 EmanuelBertorello.github.io](https://emanuelbertorello.github.io) | Portfolio personal | CSS · HTML |
-| [🧮 CalculadoraBerto](https://calculadora.github.io) | Calculadora web — proyecto personal | JavaScript |
+| [🧮 CalculadoraBerto](https://github.com/EmanuelBertorello/CalculadoraBerto) | Calculadora web — proyecto personal | JavaScript |
 | [⚛️ frecodecampProyectos](https://github.com/EmanuelBertorello/frecodecampProyectos) | Proyectos del curso de React en freeCodeCamp | React |
-| [💼 practicaprofesionalizante](https://github.com/EmanuelBertorello/practicaprofesionalizante) | Práctica profesionalizante — sistemas | HTML |
+| [💼 practicaprofesionalizante](https://github.com/EmanuelBertorello/practicaprofesionalizante) | Práctica profesionalizante | HTML |
 
 ---
 
@@ -62,23 +72,25 @@ Soy un programador junior **especializado en Front-End**, nacido en Argentina �
 ## 🎯 Actualmente
 
 - 📚 Estudiando **Analista de Sistemas**
-- ⚛️ Profundizando en **React** y su ecosistema
+- 🔴 Desarrollando aplicaciones con **Angular**
+- 🐍 Creando **automatizaciones en Python** para entornos industriales
 - 🎨 Mejorando mis skills en **CSS avanzado y animaciones**
-- 🌐 Construyendo proyectos para mi portfolio
 
 ---
 
 ## 🎸 Un poco más sobre mí
 
-```javascript
+```typescript
 const emaBerto = {
-  ubicacion:   "Argentina 🇦🇷",
-  lenguajes:   ["JavaScript", "HTML", "CSS"],
-  frameworks:  ["React", "Sass"],
-  meta:        "Front-End Developer Senior",
-  musica:      ["Deftones 🤘", "Nirvana", "Linkin Park"],
-  pasiones:    ["Programar", "Aprender", "Escuchar música", "Películas 🎬"],
-  cafeAddict:  true ☕
+  ubicacion:      "Argentina 🇦🇷",
+  rol:            "Front-End Developer",
+  lenguajes:      ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
+  frameworks:     ["Angular", "Sass"],
+  especialidad:   "Automatizaciones industriales con Python 🏭",
+  meta:           "Front-End Developer Senior",
+  musica:         ["Deftones 🤘", "Nirvana", "Linkin Park"],
+  pasiones:       ["Programar", "Aprender", "Música 🎸", "Películas 🎬"],
+  cafeAddict:     true,  // ☕ siempre
 };
 ```
 
@@ -99,7 +111,7 @@ const emaBerto = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
 
 *✨ Gracias por visitar mi perfil — siempre hay algo nuevo en construcción*
 

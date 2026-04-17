@@ -69,30 +69,6 @@ Actualmente estudiando **Analista de Sistemas** y creciendo como desarrollador c
 
 ---
 
-## 🎯 Actualmente
-
-- 📚 Estudiando **Analista de Sistemas**
-- 🔴 Desarrollando aplicaciones con **Angular**
-- 🐍 Creando **automatizaciones en Python** para entornos industriales
-- 🎨 Mejorando mis skills en **CSS avanzado y animaciones**
-
----
-
-## 🎸 Un poco más sobre mí
-
-```typescript
-const emaBerto = {
-  ubicacion:      "Argentina 🇦🇷",
-  rol:            "Front-End Developer",
-  lenguajes:      ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
-  frameworks:     ["Angular", "Sass"],
-  especialidad:   "Automatizaciones industriales con Python 🏭",
-  meta:           "Front-End Developer Senior",
-  musica:         ["Deftones 🤘", "Nirvana", "Linkin Park"],
-  pasiones:       ["Programar", "Aprender", "Música 🎸", "Películas 🎬"],
-  cafeAddict:     true,  // ☕ siempre
-};
-```
 
 ---
 

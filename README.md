@@ -12,7 +12,7 @@
 
 ---
 
-Soy un **Front-End Developer** especializado en **Angular**, apasionado por automatizar procesos industriales con **Python**. Actualmente estudiando **Analista de Sistemas**.
+Soy un **Front-End Developer** especializado en **Angular**, apasionado por automatizar procesos industriales con **Python**. Actualmente estudiando **Ingenieria en  Sistemas**, ya recibido de Analista.
 
 ## 🛠️ Stack
 

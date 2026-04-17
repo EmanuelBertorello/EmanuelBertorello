@@ -41,7 +41,9 @@ Soy un **Front-End Developer** especializado en **Angular**, apasionado por auto
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EmanuelBertorello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBertorello&layout=compact&langs_count=5&theme=tokyonight&hide_border=true)
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=EmanuelBertorello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBertorello&layout=compact&langs_count=5&theme=tokyonight&hide_border=true"/></td>
+</tr></table>
 
 </div>

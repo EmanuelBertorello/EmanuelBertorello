@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="Emanuel Bertorello, obras elegidas: una funda de vinilo con el disco medio afuera y la lista de temas">
+  <defs>
+    <clipPath id="disco"><circle cx="520" cy="270" r="205"/></clipPath>
+    <clipPath id="tapa"><rect x="70" y="60" width="420" height="420"/></clipPath>
+    <linearGradient id="brillo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0.30" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.46" stop-color="#fff" stop-opacity="0.10"/>
+      <stop offset="0.54" stop-color="#fff" stop-opacity="0.10"/>
+      <stop offset="0.70" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="540" rx="14" fill="#151110"/>
+
+  <!-- El disco va primero: la funda se imprime encima y por eso se ve medio afuera. -->
+  <g transform="translate(520 270)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      <circle r="205" fill="#0c0908"/>
+      <circle r="78.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="82.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="85.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="88.7" fill="none" stroke="#3a302a" stroke-width="1.5"/>
+      <circle r="91.8" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="96.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="99.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="102.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="105.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="110.1" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="113.2" fill="none" stroke="#3a302a" stroke-width="1.5"/>
+      <circle r="116.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="119.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="123.9" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="127.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="130.1" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="133.2" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="137.7" fill="none" stroke="#3a302a" stroke-width="1.5"/>
+      <circle r="140.8" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="143.9" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="147.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="151.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="154.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="157.7" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="160.8" fill="none" stroke="#3a302a" stroke-width="1.5"/>
+      <circle r="165.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="168.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="171.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="174.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="179.1" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="182.2" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="185.3" fill="none" stroke="#3a302a" stroke-width="1.5"/>
+      <circle r="188.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="192.9" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="196.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle r="66" fill="#c8552e"/>
+      <circle r="58" fill="none" stroke="#1c2a4a" stroke-width="1.5"/>
+      <text y="-12" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="900" fill="#1c2a4a">EB</text>
+      <text y="30" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9.5" letter-spacing="2.5" fill="#1c2a4a">33⅓ RPM</text>
+      <circle r="5" fill="#151110"/>
+    </g>
+  </g>
+  <!-- El brillo queda quieto: el disco gira por debajo de una luz fija. -->
+  <rect x="315" y="65" width="410" height="410" fill="url(#brillo)" clip-path="url(#disco)"/>
+
+  <!-- La funda -->
+  <rect x="76" y="68" width="420" height="420" fill="#000" opacity="0.45"/>
+  <rect x="70" y="60" width="420" height="420" fill="#efe4d4"/>
+  <g clip-path="url(#tapa)">
+    <circle cx="280" cy="210" r="92" fill="#c8552e"/>
+    <g fill="none" stroke="#1c2a4a" stroke-width="2">
+      <circle cx="280" cy="210" r="110"/>
+      <circle cx="280" cy="210" r="128"/>
+      <circle cx="280" cy="210" r="146"/>
+    </g>
+    <rect x="70" y="282" width="420" height="44" fill="#1c2a4a"/>
+    <text x="98" y="311" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="6" fill="#efe4d4">OBRAS ELEGIDAS</text>
+  </g>
+  <g font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" fill="#1c2a4a">
+    <text x="98" y="384" font-size="44" letter-spacing="-1">EMANUEL</text>
+    <text x="98" y="428" font-size="44" letter-spacing="-1">BERTORELLO</text>
+  </g>
+  <text x="98" y="458" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12" letter-spacing="3.5" fill="#1c2a4a">ROSARIO · ARGENTINA · MMXXVI</text>
+
+  <!-- La lista de temas -->
+  <g font-family="'Helvetica Neue', Arial, sans-serif">
+    <text x="800" y="112" font-size="14" letter-spacing="5" fill="#a89f93">DESARROLLADOR FULL STACK</text>
+    <text x="800" y="150" font-size="14" letter-spacing="5" fill="#c8552e">LADO A</text>
+    <text x="800" y="196" font-size="17" fill="#c8552e" font-family="'Courier New', monospace" font-weight="700">A1</text><text x="846" y="196" font-size="21" fill="#efe4d4">Pesar RED · el tótem</text><text x="1140" y="196" font-size="17" fill="#a89f93" text-anchor="end" font-family="'Courier New', monospace">4:12</text><line x1="800" y1="210" x2="1140" y2="210" stroke="#2c2522" stroke-width="1"/><text x="800" y="242" font-size="17" fill="#c8552e" font-family="'Courier New', monospace" font-weight="700">A2</text><text x="846" y="242" font-size="21" fill="#efe4d4">Pesar RED · la nube</text><text x="1140" y="242" font-size="17" fill="#a89f93" text-anchor="end" font-family="'Courier New', monospace">5:03</text><line x1="800" y1="256" x2="1140" y2="256" stroke="#2c2522" stroke-width="1"/><text x="800" y="288" font-size="17" fill="#c8552e" font-family="'Courier New', monospace" font-weight="700">A3</text><text x="846" y="288" font-size="21" fill="#efe4d4">Pesar RED · el portal</text><text x="1140" y="288" font-size="17" fill="#a89f93" text-anchor="end" font-family="'Courier New', monospace">3:47</text><line x1="800" y1="302" x2="1140" y2="302" stroke="#2c2522" stroke-width="1"/><text x="800" y="360" font-size="14" letter-spacing="5" fill="#c8552e">LADO B</text><text x="800" y="398" font-size="17" fill="#c8552e" font-family="'Courier New', monospace" font-weight="700">B1</text><text x="846" y="398" font-size="21" fill="#efe4d4">Tótem virtual</text><text x="1140" y="398" font-size="17" fill="#a89f93" text-anchor="end" font-family="'Courier New', monospace">2:58</text><line x1="800" y1="412" x2="1140" y2="412" stroke="#2c2522" stroke-width="1"/><text x="800" y="444" font-size="17" fill="#c8552e" font-family="'Courier New', monospace" font-weight="700">B2</text><text x="846" y="444" font-size="21" fill="#efe4d4">Actualización remota</text><text x="1140" y="444" font-size="17" fill="#a89f93" text-anchor="end" font-family="'Courier New', monospace">3:21</text><line x1="800" y1="458" x2="1140" y2="458" stroke="#2c2522" stroke-width="1"/>
+  </g>
+</svg>

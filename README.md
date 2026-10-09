@@ -1,14 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cabecera-oscura.svg">
-  <img src="assets/cabecera-clara.svg" alt="Emanuel Bertorello — Construyo productos que la gente usa todos los días para trabajar." width="100%">
-</picture>
-
 <p align="center">
-  <sub><b>DESARROLLADOR FULL STACK</b> &nbsp;·&nbsp; ESPAÑOL NATIVO &nbsp;·&nbsp; INGLÉS AVANZADO</sub>
+  <img src="./assets/vinyl-sleeve.svg" alt="Emanuel Bertorello — obras elegidas" width="100%">
 </p>
 
 <p align="center">
-  Angular · TypeScript · Node.js · Python · PostgreSQL · AWS
+  <sub><b>DESARROLLADOR FULL STACK</b> &nbsp;·&nbsp; ESPAÑOL NATIVO &nbsp;·&nbsp; INGLÉS AVANZADO</sub>
 </p>
 
 <p align="center">

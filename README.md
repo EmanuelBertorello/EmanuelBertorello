@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/vinyl-sleeve.svg" alt="Emanuel Bertorello — obras elegidas" width="100%">
+  <img src="./assets/nombre.svg" alt="Emanuel Bertorello — desarrollador full stack · español nativo · inglés avanzado" width="100%">
 </p>
 
 <p align="center">
-  <sub><b>DESARROLLADOR FULL STACK</b> &nbsp;·&nbsp; ESPAÑOL NATIVO &nbsp;·&nbsp; INGLÉS AVANZADO</sub>
+  <img src="./assets/vinyl-sleeve.svg" alt="Obras elegidas" width="100%">
 </p>
 
 <p align="center">

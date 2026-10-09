@@ -64,15 +64,6 @@ Son tres piezas que tuve que resolver enteras:
 
 ---
 
-### Otros proyectos
-
-- **Capeletti Abogados** — sitio institucional para un estudio jurídico
-- **SeguroCotiz** — cotizador de seguros
-- **Group Via Travel** — sitio de una agencia de viajes
-- **El Genio** · **La Calculadora** — proyectos propios
-- **Portfolio v2.0** — Angular 21 + Tailwind
-
----
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=EmanuelBertorello&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="Estadísticas">

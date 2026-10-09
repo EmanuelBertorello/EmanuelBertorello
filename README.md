@@ -72,6 +72,5 @@ Alrededor de eso, lo que hace falta para operarlo sin viajar a cada planta:
 
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EmanuelBertorello&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="Estadísticas">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBertorello&layout=compact&hide_border=true&theme=graywhite&langs_count=6" alt="Lenguajes">
+  <img height="165" src="https://streak-stats.demolab.com/?user=EmanuelBertorello&locale=es&hide_border=true&ring=003E4D&fire=E5A400&currStreakLabel=003E4D&sideLabels=003E4D&dates=6b7280" alt="Contribuciones totales y rachas">
 </div>

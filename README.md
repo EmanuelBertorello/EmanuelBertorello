@@ -1,8 +1,9 @@
 <h1 align="center">Emanuel Bertorello</h1>
 
 <p align="center">
-  Desarrollador <b>Full Stack</b> · Argentina<br>
-  <sub>Construyo productos que la gente usa todos los días para trabajar.</sub>
+  Desarrollador <b>Full Stack</b> · Rosario, Argentina<br>
+  <sub>Construyo productos que la gente usa todos los días para trabajar.</sub><br>
+  <sub>Español nativo · Inglés avanzado</sub>
 </p>
 
 <p align="center">
@@ -41,7 +42,13 @@ Son tres piezas que tuve que resolver enteras:
 |---|---|
 | **Tótem** | Python + PySide6 en la balanza. Habla Modbus con el indicador de peso, dispara cámaras IP, imprime tickets y guarda todo local para que un corte de internet no frene al camión. |
 | **Backend** | TypeScript sobre AWS Lambda (SAM), PostgreSQL en RDS. Emisión de QR, cierre de pesadas idempotente, stock, cuentas corrientes y facturación mensual automática. |
-| **Portal** | Angular con cuatro portales según quién entra: dueño de balanza, empresa cliente, subcliente y administración. |
+| **Portal** | Angular con un portal para cada uno que entra: el dueño de la balanza, la empresa cliente, el chofer y la administración. Monitoreo en vivo del peso, los semáforos y las cámaras. |
+
+Alrededor de eso, lo que hace falta para operarlo sin viajar a cada planta:
+
+- **Actualización remota** de los tótems, con paquetes firmados y asignación por balanza.
+- **Demostraciones con balanza virtual**: un simulador que usa las mismas rutas que un tótem real, para mostrar el circuito completo sin instalar nada.
+- **Funcionamiento sin internet**: el tótem valida pases y guarda las pesadas localmente, y las sincroniza cuando vuelve la conexión.
 
 ---
 
@@ -59,7 +66,6 @@ Son tres piezas que tuve que resolver enteras:
 
 **Infra** &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
